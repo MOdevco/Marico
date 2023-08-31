@@ -1,2 +1,2 @@
-import logo from './logo.jpg'
+import logo from './logo (2).svg'
 export { logo }
