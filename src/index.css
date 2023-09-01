@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body{
+    background-color: #000;
+}
 .wrapper{
-    max-width: 1920px;
+    max-width: 1910px;
     margin: 0 auto;
+    padding: 0 50px;
 
 }
